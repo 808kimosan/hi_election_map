@@ -1,4 +1,4 @@
-# Mapping the results of Hawaii primary election
+# Mapping the result of Hawaii primary election
 
 This repo contains a project on mapping the result of primary election in Hawaii,
 August 2018.
