@@ -4,4 +4,12 @@
 This repo contains a project on mapping the result of primary election in Hawaii,
 August 2018.
 
-Data is available from the [Office of Election](https://elections.hawaii.gov/election-results/)
+The datasets are available from [Office of Election](https://elections.hawaii.gov/election-results/)
+
+To do list:
+- [x] Read initial shape file
+- [ ] Merge shape file and Poll results  
+- [ ] Obtain other county-specific data, e.g., income, demographic, race, etc.
+- [ ] Examine data and identify correlations  
+- [ ] Implement Machine Learning algorithms to predict vote results
+- [ ]
